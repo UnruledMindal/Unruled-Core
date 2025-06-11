@@ -17,3 +17,8 @@ Open-sourcing the core lets anyone fork, remix, and contribute new “TRIS” fl
 
 > Follow the journey, open issues, or drop ideas.  
 > First “Good first issue” drops this week — stay tuned!
+```mermaid
+flowchart TD
+    A[Triage] --> B[Refine]
+    B --> C[Implement]
+    C --> D[Sync]
